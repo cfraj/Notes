@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/java/app/notes/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": -1,
+          "line": 5
+        },
+        "start": {
+          "column": 10,
+          "index": -1,
+          "line": 5
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": -1,
+          "line": 3
+        },
+        "start": {
+          "column": 27,
+          "index": -1,
+          "line": 3
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 7,
+          "index": -1,
+          "line": 48
+        },
+        "start": {
+          "column": 7,
+          "index": -1,
+          "line": 48
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/java/app/notes/ui/MainFragment.java",
+      "selection": {
+        "end": {
+          "column": 45,
+          "index": -1,
+          "line": 17
+        },
+        "start": {
+          "column": 45,
+          "index": -1,
+          "line": 17
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/res/layout/fragment_main.xml",
+      "selection": {
+        "end": {
+          "column": 28,
+          "index": -1,
+          "line": 11
+        },
+        "start": {
+          "column": 28,
+          "index": -1,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 19,
+          "index": -1,
+          "line": 20
+        },
+        "start": {
+          "column": 19,
+          "index": -1,
+          "line": 20
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Notes/.gitignore",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": -1,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": -1,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Notes/app/src/main/java/app/notes/ui/MainFragment.java"
+}
